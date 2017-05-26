@@ -28,7 +28,7 @@ Azure Toolkit for Eclipse は、Eclipse 開発環境を使って Azure アプリ
 * <https://github.com/microsoft/azure-tools-for-java>
 
 > [!NOTE]
-> IntelliJ IDE 用の Azure Toolkit もあります。 詳細については、「 [Azure Toolkit for IntelliJ]」をご覧ください。
+> IntelliJ IDE 用の Azure Toolkit もあります。 詳細については、「[Azure Toolkit for IntelliJ]」をご覧ください。
 > 
 > 
 
